@@ -3,6 +3,7 @@ mistralai
 langchain
 langchain-core
 langchain-community
+langchain-mistralai
 langchain-openai
 chromadb
 sentence-transformers
@@ -32,3 +33,7 @@ duckdb
 SpeechRecognition
 pydub
 streamlit-mic-recorder
+faiss-cpu
+huggingface-hub
+accelerate
+langchain-text-splitters

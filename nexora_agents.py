@@ -6,7 +6,7 @@ from langchain_core.messages import HumanMessage
 
 
 load_dotenv()
-print("KEY LOADED:", os.getenv("MISTRAL_API_KEY")[:5])
+
 
 model = ChatMistralAI(
     model="mistral-large-latest",

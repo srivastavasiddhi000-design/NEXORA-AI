@@ -29,3 +29,6 @@ ragas
 datasets
 streamlit
 duckdb
+SpeechRecognition
+pydub
+streamlit-mic-recorder
